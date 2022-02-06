@@ -293,11 +293,11 @@ class GuessTheNumber:
                 if self.min == str('stop'):
                     break
                 else:
-                    print('\nhttps://youtu.be/bqLNdXS7YFU\n')
+                    print('\nhttps://youtu.be/QcqaQ47ywD0?t=55\n')
                     break
             elif choice == preset_Set:
                 self.randomInRnagePreset()  
-                print('\nhttps://youtu.be/bqLNdXS7YFU\n') 
+                print('\nhttps://youtu.be/QcqaQ47ywD0?t=55\n') 
                 break
             elif choice == str('stop') or str('break'):
                 break
